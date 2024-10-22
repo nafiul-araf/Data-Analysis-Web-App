@@ -102,8 +102,6 @@ This app, built with Streamlit, allows users to quickly upload datasets, perform
 ## 👨‍💻 **Author**
 Developed by [Nafiul Araf](https://www.linkedin.com/in/nafiul-araf-50b0b7203/)
 
-Check out my other work on [GitHub](https://github.com/nafiul-araf).
-
 ---
 
 Feel free to reach out or raise issues if you have any suggestions or feedback!
