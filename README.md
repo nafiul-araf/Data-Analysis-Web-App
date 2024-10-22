@@ -94,8 +94,8 @@ This app, built with Streamlit, allows users to quickly upload datasets, perform
 
 - **Limited File Size**: Performance might degrade with very large datasets due to the limitations of Streamlit and browser memory.
 - **Basic Visualization**: While sufficient for initial exploration, the app lacks advanced visualization options like 3D plots or complex charts.
-- **No Scaling/Normalization**: Scaling features such as **StandardScaler** and **MinMaxScaler** are currently commented out.
 - **Real-Time Collaboration**: The app is designed for individual use and lacks collaboration features.
+- **Supported File Formats**: Only **CSV**, **Excel**, and **JSON** file formats are accepted. Other file types are not supported at this time.
 
 ---
 
